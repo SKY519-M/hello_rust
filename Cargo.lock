@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "hello_rust"
+name = "moringa-rust-toolkit"
 version = "0.1.0"

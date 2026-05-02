@@ -1,7 +1,4 @@
 [package]
-name = "hello_rust"
+name = "moringa-rust-toolkit"
 version = "0.1.0"
 edition = "2021"
-
-[dependencies]
-# Leave this empty for now
